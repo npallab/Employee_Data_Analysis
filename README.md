@@ -1,5 +1,5 @@
 
-# Data Analusis of Employees from Scrapped Data
+# Data Analysis of Employees from Scrapped Data
 1. Project Overview : This project aims to leverage SQL to analyze employee-related data, focusing on training, development, and engagement. The goal is to derive actionable insights that can inform decision-making and improve organizational performance.
 
 
@@ -116,7 +116,7 @@ Dashboard Link(may not be operational) : https://lookerstudio.google.com/reporti
 
 ## Screenshots
 
-![Dashboard Screenshot]([https://drive.google.com/file/d/1iw3oUARomqbHci08G5FT38DU4sbOHv2T/view?usp=sharing](https://ibb.co/vZ1tKsy))
+![Dashboard Screenshot](https://ibb.co/vZ1tKsy)
 
 
 ## Authors
