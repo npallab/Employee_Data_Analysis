@@ -110,8 +110,13 @@ create or replace TABLE SQL_PROJECT.PUBLIC.EMPLOYEE_ENGAGEMENT_SURVEY (
 
 ## Dashboard
 
-Dashboard Link : https://lookerstudio.google.com/reporting/2831e881-90e0-4287-8c10-537ff6706964
+Dashboard Link(may not be operational) : https://lookerstudio.google.com/reporting/2831e881-90e0-4287-8c10-537ff6706964
 
+
+
+## Screenshots
+
+![Dashboard Screenshot](https://drive.google.com/file/d/1iw3oUARomqbHci08G5FT38DU4sbOHv2T/view?usp=sharing)
 
 
 ## Authors
