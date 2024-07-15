@@ -116,7 +116,7 @@ Dashboard Link(may not be operational) : https://lookerstudio.google.com/reporti
 
 ## Screenshots
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1iw3oUARomqbHci08G5FT38DU4sbOHv2T/view?usp=sharing)
+![Dashboard Screenshot]([https://drive.google.com/file/d/1iw3oUARomqbHci08G5FT38DU4sbOHv2T/view?usp=sharing](https://ibb.co/vZ1tKsy))
 
 
 ## Authors
