@@ -116,8 +116,9 @@ Dashboard Link(may not be operational) : https://lookerstudio.google.com/reporti
 
 ## Screenshots
 
-![Dashboard Screenshot](https://ibb.co/vZ1tKsy)
+[Dashboard Screenshot]
 
+<a href="https://ibb.co/vZ1tKsy"><img src="https://i.ibb.co/4PWQ5sv/Screenshot-2024-07-15-at-2-01-47-PM.png" alt="Screenshot-2024-07-15-at-2-01-47-PM" border="0" /></a>
 
 ## Authors
 
